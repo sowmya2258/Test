@@ -1,0 +1,23 @@
+git log --oneline
+git show head
+git remote -v (shows the remote url)
+git show hashid
+./config folder stores the url
+git branch (to see all branches)
+git tags
+git branch --set-upstream master origin/master
+git pull
+git remote add origin remote repository URL
+git tag v1.0
+git push --tags
+
+git branch <name> --To create a new branch
+git branch -a --To get list of all the branches in the respective repository
+git checkout <branchname> --To switch to respective branch
+git branch -d <branchname> --(to delete a branch)
+git merge <branchname> --To move the code from branch to master
+git fetch origin master
+git push origin <branchname> To move the code to respective branch
+git branch -r
+git push origin <localbranchname>:<remotebranchname>
+git push origin :<remote branch name>(to delete remote branch)
