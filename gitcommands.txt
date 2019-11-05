@@ -1,4 +1,4 @@
-adding in local
+adding in localbranch
 git log --oneline
 git show head
 git remote -v (shows the remote url)
