@@ -1,4 +1,4 @@
-adding
+adding in local
 git log --oneline
 git show head
 git remote -v (shows the remote url)
